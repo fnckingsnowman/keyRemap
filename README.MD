@@ -1,3 +1,5 @@
 this is a key remapping program that was completely generated and constructed based on code and instructions from ChatGPT. The goal of this program was to remap the side buttons of my mouse to click buttons on the keyboard; because when i was playing Black Myth Wukong, the key binds that the game supported was very limited and didn't support the side buttons on the mouse (which i use a lot in other games), so i asked ChatGPT to write cpp code that used the windows lowLevelKeyboardHooks api to rebind the keys from the mouse to the keyboard allowing me to preform better in the video game.
 
 when you run the "main.exe" it should show up a terminal window and it would ask you to input two different keys for the two side mouse buttons which you can choose based on your preferences. By closing the window it should stop the program from running. This program is only capable of being used on computers running windows.
+
+here is the link for the GitHub repo if you want to download the .exe file to run the program: https://github.com/fnckingsnowman/keyRemap
